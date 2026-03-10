@@ -1,6 +1,6 @@
 # 🧠 RL Notebooks
 
-**A 15-notebook journey through Reinforcement Learning — from Bellman to AlphaZero to RLHF.**
+**A 16-notebook journey through Reinforcement Learning — from Bellman to AlphaZero to RLHF.**
 
 Learn by doing: each notebook is a workbook with guided `# TODO` scaffolds you fill in yourself. Solutions are included so you can check your work.
 
@@ -21,14 +21,15 @@ Learn by doing: each notebook is a workbook with guided `# TODO` scaffolds you f
 | 08 | The Player and the Coach | Actor-Critic |
 | 09 | Stepping Carefully | PPO |
 | **Act IV — Engineering** | | |
-| 10 | The Clone Army | Distributed RL, A3C/IMPALA |
-| 11 | Learning in the Dark | Offline RL, CQL |
+| 10 | The Steering Wheel | Continuous Actions, PPO |
+| 11 | The Clone Army | Distributed RL, A3C/IMPALA |
+| 12 | Learning in the Dark | Offline RL, CQL |
 | **Act V — LLM Alignment** | | |
-| 12 | Slaying the Memory Monster | GRPO (DeepSeek) |
-| 13 | The Great Bypass | DPO |
+| 13 | Slaying the Memory Monster | GRPO (DeepSeek) |
+| 14 | The Great Bypass | DPO |
 | **Act VI — Grandmasters** | | |
-| 14 | The Infinite Curriculum | Self-Play, MCTS, AlphaZero |
-| 15 | The Hidden Board | CFR, Poker |
+| 15 | The Infinite Curriculum | Self-Play, MCTS, AlphaZero |
+| 16 | The Hidden Board | CFR, Poker |
 
 ## 📂 Folders
 

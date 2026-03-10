@@ -8,4 +8,5 @@ jupyter>=1.0
 torch
 torchvision
 torchaudio
+pygame-ce>=2.5.0
 gymnasium[classic_control]
