@@ -1,13 +1,13 @@
 # 🧠 RL Notebooks
 
-**A 16-notebook journey through Reinforcement Learning — from Bellman to AlphaZero to RLHF.**
+**A 17-notebook journey through Reinforcement Learning — from Bellman to AlphaZero to RLHF.**
 
 Learn by doing: each notebook is a workbook with guided `# TODO` scaffolds you fill in yourself. Solutions are included so you can check your work.
 
 ## 📖 Structure
 
 | # | Title | Key Ideas |
-|---|-------|-----------|
+|---|-------|-----------| 
 | **Act I — Mathematical Foundations** | | |
 | 01 | The Game of Life | Agents, Environments, MDPs |
 | 02 | Time Travel | Returns, Bellman Equation |
@@ -15,21 +15,22 @@ Learn by doing: each notebook is a workbook with guided `# TODO` scaffolds you f
 | **Act II — Value-Based** | | |
 | 04 | Learning by Stumbling | Q-Learning, Explore/Exploit |
 | 05 | Giving the AI Eyes | DQN, Replay Buffers |
-| 06 | Brain Hacks | Double & Dueling DQN |
+| 06 | Brain Hacks | Double DQN, Prioritized Replay |
 | **Act III — Policy-Based** | | |
 | 07 | Throwing Away the Table | Policy Gradients, REINFORCE |
 | 08 | The Player and the Coach | Actor-Critic |
-| 09 | Stepping Carefully | PPO |
-| **Act IV — Engineering** | | |
+| 09 | Stepping Carefully | PPO, GAE, Entropy Bonus |
 | 10 | The Steering Wheel | Continuous Actions, PPO |
+| **Act IV — Engineering** | | |
 | 11 | The Clone Army | Distributed RL, A3C/IMPALA |
 | 12 | Learning in the Dark | Offline RL, CQL |
+| 13 | The Dream Machine | Model-Based RL, Dyna-Q |
 | **Act V — LLM Alignment** | | |
-| 13 | Slaying the Memory Monster | GRPO (DeepSeek) |
-| 14 | The Great Bypass | DPO |
+| 14 | Slaying the Memory Monster | GRPO (DeepSeek) |
+| 15 | The Great Bypass | DPO |
 | **Act VI — Grandmasters** | | |
-| 15 | The Infinite Curriculum | Self-Play, MCTS, AlphaZero |
-| 16 | The Hidden Board | CFR, Poker |
+| 16 | The Infinite Curriculum | Self-Play, MCTS, AlphaZero |
+| 17 | The Hidden Board | CFR, Poker |
 
 ## 📂 Folders
 
